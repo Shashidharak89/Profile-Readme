@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./shashi-banner.svg?v=13">
-  <source media="(prefers-color-scheme: light)" srcset="./shashi-banner-light.svg?v=13">
-  <img src="./shashi-banner.svg?v=13" alt="Shashidhara K — Fullstack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./shashi-banner.svg?v=14">
+  <source media="(prefers-color-scheme: light)" srcset="./shashi-banner-light.svg?v=14">
+  <img src="./shashi-banner.svg?v=14" alt="Shashidhara K — Fullstack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./shashi-lanyard.svg?v=13" alt="Shashidhara K ID badge" width="330"/>
+<img src="./shashi-lanyard.svg?v=14" alt="Shashidhara K ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -25,8 +25,11 @@
 
 | 🎌 Project | 💻 Tech | ⭐ |
 |:---|:---:|:---:|
-| [📚 LEARNIX — AI Learning Platform](https://github.com/shashidharak89/LEARNIX) | `Next.js` `AI/ML` `Node` | 15 |
-| [🎮 GameNexPlay — Gaming Hub](https://github.com/shashidharak89/GameNexPlay) | `React` `Node.js` `MongoDB` | 12 |
+| [📚 LEARNIX — Learn Smarter](https://github.com/Shashidharak89/LEARNIX) | `Next.js` `MongoDB` | 1 |
+| [🔐 CIPHER 2K25](https://github.com/Shashidharak89/CIPHER_2K25) | `React.js` `Express.js` `MongoDB` | 1 |
+| [🌐 My Portfolio](https://github.com/Shashidharak89/MY-PORTFOLIO) | `Next.js` `MongoDB` | 1 |
+| [🎓 Student Management](https://github.com/Shashidharak89/STUDENT-CRUD-SPRINGBOOT-WITH-POSTGRES) | `Spring Boot` `PostgreSQL` | 1 |
+| [🛒 ShopX](https://github.com/Shashidharak89/E-COMMERCE-MERN) | `React.js` `Express.js` `MongoDB` | 1 |
 
 <br/>
 
@@ -42,8 +45,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./shashi-stats.svg?v=13" alt="GitHub Stats" height="185"/>
-<img src="./shashi-langs.svg?v=13" alt="Top Languages" height="185"/>
+<img src="./shashi-stats.svg?v=14" alt="GitHub Stats" height="185"/>
+<img src="./shashi-langs.svg?v=14" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
