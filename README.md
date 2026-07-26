@@ -61,9 +61,13 @@
 
 <br/><br/>
 
-### 🐍 Watch the snake eat my contributions
+### 🐍 My Contributions Getting Eaten Alive
 
-<img src="https://raw.githubusercontent.com/shashidharak89/shashidharak89/output/github-snake-pink.svg" alt="Contribution snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/shashidharak89/shashidharak89/output/github-snake-pink.svg" width="95%" />
+</picture>
 
 <br/><br/>
 
