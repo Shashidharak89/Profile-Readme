@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=13">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=13">
-  <img src="./megha-banner.svg?v=13" alt="Shashidhara K — Fullstack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./shashi-banner.svg?v=13">
+  <source media="(prefers-color-scheme: light)" srcset="./shashi-banner-light.svg?v=13">
+  <img src="./shashi-banner.svg?v=13" alt="Shashidhara K — Fullstack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=13" alt="Shashidhara K ID badge" width="330"/>
+<img src="./shashi-lanyard.svg?v=13" alt="Shashidhara K ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -42,8 +42,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./megha-stats.svg?v=13" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=13" alt="Top Languages" height="185"/>
+<img src="./shashi-stats.svg?v=13" alt="GitHub Stats" height="185"/>
+<img src="./shashi-langs.svg?v=13" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -57,7 +57,7 @@
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=13" alt="Trophies" width="95%"/>
+<img src="./shashi-trophies.svg?v=13" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
