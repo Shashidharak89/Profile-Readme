@@ -49,7 +49,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <g class="tw" style="animation-delay:.5s"><path d="M60 200l3 8 8 3-8 3-3 8-3-8-8-3 8-3z" fill="#f0abfc"/></g>
 <g class="tw" style="animation-delay:1.6s"><path d="M372 300l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#ff7eb6"/></g>
 <g class="tw" style="animation-delay:2.7s"><path d="M52 480l2.4 6.4 6.4 2.4-6.4 2.4-2.4 6.4-2.4-6.4-6.4-2.4 6.4-2.4z" fill="#c084fc"/></g>
-<g class="hb" style="animation-delay:1s"><path d="M368 480 c-4-9-17-7-17 3 0 7 10 13 17 18 7-5 17-11 17-18 0-10-13-12-17-3z" fill="#ff7eb6" opacity=".8" filter="url(#glow2)"/></g>
+<g class="hb" style="animation-delay:1s"><polygon points="368,472 371,481 380,481 373,486 376,495 368,489 360,495 363,486 356,481 365,481" fill="#00FFB3" opacity=".85" filter="url(#glow2)"/></g>
 
 <!-- pendulum: settle then sway -->
 <g class="settle"><g class="sway">
@@ -59,7 +59,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
     <path d="M191 -6 L229 -6 L226 236 L194 236 Z" fill="url(#strapg)"/>
     <line x1="196" y1="0" x2="198.5" y2="234" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
     <line x1="224" y1="0" x2="221.5" y2="234" stroke="#fff" stroke-opacity=".55" stroke-width="1" stroke-dasharray="4 3"/>
-    <text x="0" y="0" font-size="10.5" font-weight="bold" fill="#fff" opacity=".92" letter-spacing="2" transform="translate(214,18) rotate(90)">SHASHI.DEV ♥ CODE ♥ SHASHI-K.IN</text>
+    <text x="0" y="0" font-size="10.5" font-weight="bold" fill="#fff" opacity=".92" letter-spacing="2" transform="translate(214,18) rotate(90)">SHASHI.DEV • CODE • SHASHI-K.IN</text>
   </g>
 
   <!-- Clasp + ring -->
@@ -103,5 +103,5 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   </g>
 </g></g>
 
-<text x="210" y="652" text-anchor="middle" font-size="10" fill="#8b949e" opacity="0" style="animation:fadeIn .6s ease 3.6s forwards">— drag me… just kidding, I'm an SVG ♥ —</text>
+<text x="210" y="652" text-anchor="middle" font-size="10" fill="#8b949e" opacity="0" style="animation:fadeIn .6s ease 3.6s forwards">— drag me… just kidding, I'm an SVG ⚡ —</text>
 </svg>

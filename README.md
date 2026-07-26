@@ -2,9 +2,9 @@
 
 <!-- ✨ Animated Banner ✨ -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=9">
-  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=9">
-  <img src="./megha-banner.svg?v=9" alt="Shashidhara K — Fullstack Developer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="./megha-banner.svg?v=10">
+  <source media="(prefers-color-scheme: light)" srcset="./megha-banner-light.svg?v=10">
+  <img src="./megha-banner.svg?v=10" alt="Shashidhara K — Fullstack Developer" width="100%"/>
 </picture>
 
 </div>
@@ -16,7 +16,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card (React Bits style, pure SVG) -->
-<img src="./megha-lanyard.svg?v=9" alt="Shashidhara K ID badge" width="330"/>
+<img src="./megha-lanyard.svg?v=10" alt="Shashidhara K ID badge" width="330"/>
 
 </td>
 <td width="62%" valign="middle">
@@ -30,7 +30,7 @@
 
 <br/>
 
-> 💗 *"Every bug is a misunderstanding waiting to be exposed." 🐛*
+> ⚡ *"Every bug is a misunderstanding waiting to be exposed." 🐛*
 
 </td>
 </tr>
@@ -42,8 +42,8 @@
 
 ### 📊 GitHub Stats & Graphs
 
-<img src="./megha-stats.svg?v=9" alt="GitHub Stats" height="185"/>
-<img src="./megha-langs.svg?v=9" alt="Top Languages" height="185"/>
+<img src="./megha-stats.svg?v=10" alt="GitHub Stats" height="185"/>
+<img src="./megha-langs.svg?v=10" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
@@ -52,12 +52,12 @@
 <br/><br/>
 
 <!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashidharak89&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💗" alt="Contribution graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashidharak89&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20⚡" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
 
 <!-- 🏆 Trophies (local animated SVG — always loads) -->
-<img src="./megha-trophies.svg?v=9" alt="Trophies" width="95%"/>
+<img src="./megha-trophies.svg?v=10" alt="Trophies" width="95%"/>
 
 <br/><br/>
 
@@ -88,6 +88,6 @@
 
 <br/><br/>
 
-*⭐️ Always learning, always building.* 💗
+*⭐️ Always learning, always building.* ⚡
 
 </div>
