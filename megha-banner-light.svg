@@ -120,7 +120,7 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 <text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#1f2328">Hi, I'm 👋</text>
 <!-- Name: Shashidhara K (Animated gradient, per-letter pop) -->
 <g transform="translate(48,196)" fill="url(#nameg)" filter="url(#glow)">
-  <text font-family="'Fira Code', 'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="900" letter-spacing="-1" class="ltr" style="animation-delay:1.5s">Shashidhara K</text>
+  <text font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="44" font-weight="900" letter-spacing="-1" class="ltr" style="animation-delay:1.5s">Shashidhara K</text>
 </g>
 <g class="hb" style="animation-delay:3s"><polygon points="410,158 413,167 422,167 415,172 418,181 410,175 402,181 405,172 398,167 407,167" fill="#0284c7" opacity=".95"/></g>
 
