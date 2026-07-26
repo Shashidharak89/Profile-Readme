@@ -26,27 +26,27 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
   <g class="row" style="animation-delay:0.50s">
     <text x="24" y="74" font-size="14">⭐</text>
     <text x="52" y="74" font-size="13.5" fill="#c9d1d9">Total Stars Earned:</text>
-    <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">50+</text>
+    <text x="316" y="74" text-anchor="end" font-size="14" font-weight="bold" fill="#fde047">15+</text>
   </g>
   <g class="row" style="animation-delay:0.72s">
     <text x="24" y="105" font-size="14">💻</text>
     <text x="52" y="105" font-size="13.5" fill="#c9d1d9">Total Commits:</text>
-    <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">500+</text>
+    <text x="316" y="105" text-anchor="end" font-size="14" font-weight="bold" fill="#7dd3fc">3800+</text>
   </g>
   <g class="row" style="animation-delay:0.94s">
     <text x="24" y="136" font-size="14">📦</text>
     <text x="52" y="136" font-size="13.5" fill="#c9d1d9">Public Repos:</text>
-    <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">8+</text>
+    <text x="316" y="136" text-anchor="end" font-size="14" font-weight="bold" fill="#4ade80">30+</text>
   </g>
   <g class="row" style="animation-delay:1.16s">
     <text x="24" y="167" font-size="14">👥</text>
     <text x="52" y="167" font-size="13.5" fill="#c9d1d9">Followers:</text>
-    <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">25+</text>
+    <text x="316" y="167" text-anchor="end" font-size="14" font-weight="bold" fill="#c084fc">20+</text>
   </g>
   <g class="row" style="animation-delay:1.38s">
     <text x="24" y="198" font-size="14">🚀</text>
     <text x="52" y="198" font-size="13.5" fill="#c9d1d9">Featured Apps:</text>
-    <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#ff7eb6">2</text>
+    <text x="316" y="198" text-anchor="end" font-size="14" font-weight="bold" fill="#ff7eb6">5</text>
   </g>
 
 <!-- Rank ring -->
