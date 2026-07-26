@@ -63,11 +63,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shashidharak89/shashidharak89/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shashidharak89/shashidharak89/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/shashidharak89/shashidharak89/output/github-snake-pink.svg" width="95%" />
-</picture>
+<img src="https://raw.githubusercontent.com/shashidharak89/shashidharak89/output/github-snake-pink.svg" alt="Contribution snake"/>
 
 <br/><br/>
 
